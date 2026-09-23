@@ -2,6 +2,8 @@ package com.la.week1.assign1;
 
 public class CadToUsd {
 
+	// somethiung
+	int abc;
     public double convert(double canadianDollars) {
         return canadianDollars * 0.71;
     }
